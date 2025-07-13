@@ -1,7 +1,7 @@
-##📌 Project Title
+## 📌 Project Title
 Blinket Sales Performance & Product Analytics
 
-##📊 Overview
+## 📊 Overview
 This project analyzes Blinket's retail sales data to:
 
 Understand item-level and outlet-level sales performance
